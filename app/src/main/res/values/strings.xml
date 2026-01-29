@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shock Tracker</string>
+    <string name="extension_name">Shock Tracker</string>
+    <string name="action_service_front">Service Fork</string>
+    <string name="action_service_rear">Service Rear</string>
+    <string name="action_check_status">Check Status</string>
+</resources>

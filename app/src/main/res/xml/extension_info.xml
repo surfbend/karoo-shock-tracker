@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="shock-tracker"
+    displayName="@string/extension_name"
+    icon="@drawable/ic_shock"
+    scansDevices="false">
+
+    <BonusAction
+        actionId="service-front-basic"
+        displayName="@string/action_service_front" />
+
+    <BonusAction
+        actionId="service-rear-basic"
+        displayName="@string/action_service_rear" />
+
+    <BonusAction
+        actionId="check-status"
+        displayName="@string/action_check_status" />
+
+</ExtensionInfo>
